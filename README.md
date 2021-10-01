@@ -1,4 +1,4 @@
-# Docker Contrainer Ubuntu Neovim setting for Python 
+# Ubuntu Neovim setting for Python(conda) 
 
 `Pycharm`과 `Jupyter notebook`의 불편함의 대안으로 `Neovim`을 사용하여 Python 개발 환경 구축
 
