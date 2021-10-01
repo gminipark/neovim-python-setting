@@ -11,7 +11,7 @@
 - port도 고려
 
 ### Why __Neovim__?
-conda 환경에서 Neovim은 자도으로 python 경로를 인식하는 반면 Vim은 이용해서 python 경로를 인식 못함 
+conda 환경에서 Neovim은 자으로 python 경로를 인식하는 반면 Vim은 이용해서 python 경로를 인식 못함 
 
 ### Environment
 - Ubuntu 16.04
