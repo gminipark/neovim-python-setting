@@ -27,6 +27,7 @@ youcompleteme를 사용할려면 `cmake` 특정 버전 이상 필요
 open ssl 필요
 ```bash
 sudo apt install libssl-dev 
+sudo apt install build-essential
 ```
 - - -
 CMake 설치
