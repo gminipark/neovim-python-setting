@@ -65,9 +65,9 @@ update-alternatives --config g++
 #### 4. Neovim
 - - -
 [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim) 공식 설치 사이트 
-Neovim 설치
+Neovim 설치 
 ```
-sudo add-apt-repository ppa:neovim-ppa/unstable # ubuntu 18.04 이상은 stable로 설치 
+sudo add-apt-repository ppa:neovim-ppa/unstable # neovim 0.5.0 이상 사용해야 ycm 사용가능 
 sudo apt-get update
 sudo apt-get install neovim
 ```
