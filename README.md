@@ -115,7 +115,7 @@ vundle 설치
 cd ~/.config/nvim/
 nvim init.vim
 ```
-```:PluninInstall``` 으로 설치
+```:PluginInstall``` 으로 설치
 
 ##### Youcompleteme 설치
 현재 경로 ```~/.config/nvim/```
