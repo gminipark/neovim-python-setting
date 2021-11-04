@@ -77,7 +77,8 @@ let g:NERDToggleCheckAllLines = 1
 
 " auto-save
 let g:auto_save = 1 
-let g:auto_save_events = ['InsertLeave', "TextChanged"]
+let g:auto_save_events = ['TextChanged']
+let g:updatetime = 5000
 
 if has("syntax")
 syntax on           "구문 강조
