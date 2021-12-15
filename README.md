@@ -28,6 +28,8 @@ open ssl 필요
 ```bash
 sudo apt install libssl-dev 
 sudo apt install build-essential
+sudo apt install python-software-properties # 16.04
+sudo apt install software-properties-common # 18.04
 ```
 - - -
 CMake 설치
@@ -73,9 +75,6 @@ sudo apt-get install neovim
 ```
 - - -
 Neovim python support
-```bash
-sudo apt-get install python-software-properties
-```
 
 ```bash
 sudo apt-get install python-dev python-pip python3-dev
