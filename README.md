@@ -29,7 +29,7 @@ open ssl 필요
 sudo apt install libssl-dev 
 sudo apt install build-essential
 sudo apt install python-software-properties # 16.04
-sudo apt install software-properties-common # 16.04 & 18.04
+sudo apt install software-properties-common # 18.04
 ```
 - - -
 CMake 설치
